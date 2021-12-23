@@ -1,2 +1,6 @@
+/target
+/allure-results/*
+/allure-reports/*
 .idea
-target
+/*.iml
+!.gitkeep
