@@ -4,3 +4,4 @@
 .idea
 /*.iml
 !.gitkeep
+!allure-results/categories.json
