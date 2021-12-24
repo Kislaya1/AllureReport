@@ -10,11 +10,11 @@ Anyone can use this demo-project as it will be helpful for a quick-start.
 
 Below are the key points in my project : - <br><br>
 **a) Allure Reporting :** <br>
-Allure Framework is a flexible lightweight multi-language test report tool that not only shows a very concise representation of what have been tested in a neat web report form, but allows everyone participating in the development process to extract maximum of useful information from everyday execution of tests.
+Allure Framework is a flexible lightweight multi-language test report tool that not only shows a very concise representation of what have been tested in a neat web report form, but allows everyone participating in the development process to extract maximum of useful information from everyday execution of tests.<br><br>
 **b) Allure Integration with Rest Assured :** <br>
-I had integrated rest assured with Allure inside (Rest Assured Test Class).
+I had integrated rest assured with Allure inside (Rest Assured Test Class).<br><br>
 **c) Docker Integration :** <br>
-I had created docker-compose yml file to quick start Allure without any overhead to install the softwares.
+I had created docker-compose yml file to quick start Allure without any overhead to install the softwares.<br><br>
 
 ## <span style="font-family: Calibri; font-size: 2.8em;"> Technology Stack Used </span>
 
