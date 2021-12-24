@@ -14,7 +14,7 @@ Allure Framework is a flexible lightweight multi-language test report tool that 
 **b) Allure Integration with Rest Assured :** <br>
 I had integrated rest assured with Allure inside (Rest Assured Test Class).<br><br>
 **c) Docker Integration :** <br>
-I had created docker-compose yml file to quick start Allure without any overhead to install the softwares.<br><br>
+I had created docker-compose yml file to quick start Allure Reports without any overhead to install different software.<br><br>
 
 ## <span style="font-family: Calibri; font-size: 2.8em;"> Technology Stack Used </span>
 
